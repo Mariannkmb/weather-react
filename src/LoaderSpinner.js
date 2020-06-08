@@ -5,7 +5,7 @@ export default function LoaderSpinner() {
   return (
     <Loader
       type="Puff"
-      color="#00BFFF"
+      color="orange"
       height={50}
       width={50}
       timeout={3000}
